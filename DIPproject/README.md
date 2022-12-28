@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-# DIP
-=======
-DIP project
->>>>>>> 887379c (commit)
+DIP course
+------------------
+homework & final project
+
